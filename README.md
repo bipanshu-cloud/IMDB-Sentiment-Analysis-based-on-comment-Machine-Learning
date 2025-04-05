@@ -42,45 +42,10 @@ Imdb-Sentiment-Analysis-Flask/
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation (you're here!)
 
-
----
-
-## ▶️ Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Imdb-Sentiment-Analysis-Flask.git
-cd Imdb-Sentiment-Analysis-Flask
-
-###2. (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-### 3. Install dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-### 4. Run the app
-bash
-Copy
-Edit
-python app.py
-
-## 📦 Requirements
-Python 3.x
-
-Flask
-
-Scikit-learn
-
-Pandas
-
-Numpy
-
 ## 📄 License
 This project is open-source and available under the MIT License.
+
+
 
 
 
